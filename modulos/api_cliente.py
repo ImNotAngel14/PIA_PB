@@ -1,6 +1,10 @@
 import json
 import time
 import requests
+from pathlib import Path
+
+RUTA_PROYECTO = Path(__file__).resolve().parent.parent
+RUTA_DATOS = RUTA_PROYECTO / "datos"
 
 URL = "https://world.openfoodfacts.org/api/v2/search"
 HEADERS = {"User-Agent": "E2026_PB_E7 (barbosamane@gmail.com)"}
@@ -43,7 +47,7 @@ def main():
         print("No se obtuvieron datos.")
         return
 
-    with open("datos/datos_crudos.json", "w", encoding="utf-8") as f:
+    with open(RUTA_DATOS / "datos_crudos.json", "w", encoding="utf-8") as f:
         json.dump(productos, f, ensure_ascii=False, indent=2)
     print(f"Guardados {len(productos)} productos en datos_crudos.json")
 

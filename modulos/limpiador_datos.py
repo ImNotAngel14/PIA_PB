@@ -1,5 +1,9 @@
 import json
 import re
+from pathlib import Path
+
+RUTA_PROYECTO = Path(__file__).resolve().parent.parent
+RUTA_DATOS = RUTA_PROYECTO / "datos"
 
 RE_CODIGO = re.compile(r"\d{8,13}")
 RE_ESPACIOS = re.compile(r"\s+")
@@ -60,7 +64,7 @@ def limpiar_marcas(texto):
 
 
 def main():
-    with open("datos/datos_crudos.json", encoding="utf-8") as f:
+    with open(RUTA_DATOS / "datos_crudos.json", "r", encoding="utf-8") as f:
         crudos = json.load(f)
 
     limpios = []
@@ -100,7 +104,7 @@ def main():
             "categorias": limpiar_categorias(p.get("categories")),
         })
 
-    with open("datos/datos_limpios.json", "w", encoding="utf-8") as f:
+    with open(RUTA_DATOS / "datos_limpios.json", "w", encoding="utf-8") as f:
         json.dump(limpios, f, ensure_ascii=False, indent=2)
     indice = {p["codigo"]: p for p in limpios}
 
