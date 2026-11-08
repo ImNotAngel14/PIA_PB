@@ -74,6 +74,7 @@ def limpiar_marcas(texto):
 
 
 def main():
+    RUTA_DATOS.mkdir(exist_ok=True)
     with open(RUTA_DATOS / "datos_crudos.json", "r", encoding="utf-8") as f:
         crudos = json.load(f)
 
@@ -113,7 +114,7 @@ def main():
             "unidad": unidad,
             "categorias": limpiar_categorias(p.get("categories")),
         })
-
+    
     with open(RUTA_DATOS / "datos_limpios.json", "w", encoding="utf-8") as f:
         json.dump(limpios, f, ensure_ascii=False, indent=2)
     indice = {p["codigo"]: p for p in limpios}

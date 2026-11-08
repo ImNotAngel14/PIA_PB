@@ -111,6 +111,8 @@ def main():
         print("No se obtuvieron datos.")
         return
 
+    RUTA_DATOS.mkdir(exist_ok=True)
+
     with open(RUTA_DATOS / "datos_crudos.json", "w", encoding="utf-8") as f:
         json.dump(productos, f, ensure_ascii=False, indent=2)
 
