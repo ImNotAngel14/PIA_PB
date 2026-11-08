@@ -1,3 +1,13 @@
+"""
+Módulo: analizador.py
+Descripción: Analiza los datos de productos y ordena con quicksort.
+
+Autor: Angel Emmanuel Barbosa Silos
+Matrícula: 1905405
+Rol: Programador
+Materia: Programación Básica
+Fecha: 07/11/2026
+"""
 import json
 from pathlib import Path
 

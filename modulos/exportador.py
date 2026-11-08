@@ -1,3 +1,13 @@
+"""
+Módulo: exportador.py
+Descripción: Exporta los datos de productos y estadísticas a un archivo Excel.
+
+Autor: Yesenia Stephania Chavez Montiel
+Matrícula: 0000000
+Rol: Programador
+Materia: Programación Básica
+Fecha: 29/10/2026
+"""
 import json
 from pathlib import Path
 
