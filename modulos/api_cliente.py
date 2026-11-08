@@ -12,7 +12,7 @@ RUTA_PROYECTO = Path(__file__).resolve().parent.parent
 RUTA_DATOS = RUTA_PROYECTO / "datos"
 
 URL = "https://world.openfoodfacts.org/api/v2/search"
-HEADERS = {"User-Agent": "E2026_PB_E7 (angel.barbosasl@uanl.edu.mx)"}
+HEADERS = {"User-Agent": "PIA Programacion Basica UANL (angel.barbosasl@uanl.edu.mx)"}
 PARAMS = {
     "countries_tags": "en:mexico",
     "categories_tags": "en:snacks",
