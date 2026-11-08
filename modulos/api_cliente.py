@@ -1,3 +1,13 @@
+"""
+Módulo: api_cliente.py
+Descripción: Cliente para consultar la API de Open Food Facts.
+
+Autor: Angel Emmanuel Barbosa Silos
+Matrícula: 1905405
+Rol: Programador
+Materia: Programación Básica
+Fecha: 24/10/2026
+"""
 import json
 import time
 try:

@@ -1,3 +1,13 @@
+"""
+Módulo: limpiador_datos.py
+Descripción: Limpia y procesa los datos de productos.
+
+Autor: Angel Emmanuel Barbosa Silos
+Matrícula: 1905405
+Rol: Programador
+Materia: Programación Básica
+Fecha: 24/10/2026
+"""
 import json
 import re
 from pathlib import Path
