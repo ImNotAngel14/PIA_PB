@@ -139,13 +139,6 @@
     "product_name": "Emperador senzo"
   },
   {
-    "brands": "Ferrero Technical Services Srl",
-    "categories": "Filled cakes, Chocolate soft cake",
-    "code": "8000500267035",
-    "product_name": "delice cacao",
-    "quantity": "39 g"
-  },
-  {
     "brands": "Sanissimo",
     "categories": "Biscuits, Crackers (Appetizers), es:galleta-de-maiz, es:galleta-de-maiz-blanco-horneado",
     "code": "0658480001255",
@@ -433,13 +426,6 @@
     "quantity": "160 g"
   },
   {
-    "brands": "Pringles",
-    "categories": "Stacked extruded potato crisps",
-    "code": "0038000184932",
-    "product_name": "Pringles - Original",
-    "quantity": "124 g"
-  },
-  {
     "brands": "Quaker",
     "categories": "Breakfast cereals, Chocolate desserts, Cereal bars, Milk chocolates with hazelnuts, es:Barra con chocolate, es:Barra de avena, es:Barras de avena, es:Barras de avena con chocolate, es:Barras energéticas, es:Postre dulce, es:Postre saludable",
     "code": "7500478025039",
@@ -486,7 +472,7 @@
     "product_name": "Mazapan Untable"
   },
   {
-    "brands": "Lancelot",
+    "brands": "Lancelot, REMEDIOS MAGICOS S.A. DE C.V.",
     "categories": "Chocolates, es:Chocolate oscuro",
     "code": "7502261263529",
     "product_name": "",
@@ -679,5 +665,1376 @@
     "categories": "Crisps, es:Sabritas",
     "code": "7500478037407",
     "product_name": "7500478037407"
+  },
+  {
+    "brands": "Barcel",
+    "categories": "Crisps",
+    "code": "0757528026042",
+    "product_name": "Takis"
+  },
+  {
+    "brands": "Comfy Foods",
+    "categories": "Snacks",
+    "code": "7503037284168",
+    "product_name": "Chicharrón de Garbanzo sabor chipotle",
+    "quantity": "600g"
+  },
+  {
+    "brands": "Great valie",
+    "categories": "Biscuits",
+    "code": "7506495014957",
+    "product_name": "Galletas de arándano"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits, Mantecados and polvorones",
+    "code": "7500810003251",
+    "product_name": "Polvorones",
+    "quantity": "296g"
+  },
+  {
+    "brands": "Bimbo",
+    "categories": "Breads, Chocolate candies, Pastries, Powdered almond milks, es:Bimbo, es:Pan dulce",
+    "code": "7503030374019",
+    "product_name": "Crossantines con relleno sabor a chocolate pan dulce",
+    "quantity": "32g"
+  },
+  {
+    "brands": "Chips",
+    "categories": "Potato crisps",
+    "code": "7500810024553",
+    "product_name": "Chips jalapeño",
+    "quantity": "62g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits",
+    "code": "7501030418504",
+    "product_name": "Galleta tubo príncipe"
+  },
+  {
+    "brands": "Canel's",
+    "categories": "Confectioneries",
+    "code": "0018804701351",
+    "product_name": "ICEE Mini Jelly beans Sabor mora"
+  },
+  {
+    "brands": "Turín zero sugar",
+    "categories": "Chocolates",
+    "code": "7502271915784",
+    "product_name": "Turín Zero sugar"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits",
+    "code": "7500810027295",
+    "product_name": "Príncipe"
+  },
+  {
+    "brands": "Ruffles",
+    "categories": "Potato crisps",
+    "code": "7500478044221",
+    "product_name": "Ruffles Queso",
+    "quantity": "48g"
+  },
+  {
+    "brands": "Act II",
+    "categories": "Popcorn",
+    "code": "7501006560534",
+    "product_name": "Palomitas Sabor Extra Mantequilla"
+  },
+  {
+    "brands": "Halls",
+    "categories": "Caramels",
+    "code": "7622210529688",
+    "product_name": "Halls extra strong",
+    "quantity": "9 x 2.75 g"
+  },
+  {
+    "brands": "Trita",
+    "categories": "Extruded crispbreads",
+    "code": "7502261252035",
+    "product_name": "Tostadas de Maíz Crujientes",
+    "quantity": "300g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000658923",
+    "product_name": "Galletas Marias 170 GRS",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Breads, Cereal flours, Cakes",
+    "code": "7501761869149",
+    "product_name": "Hotcakes tradicionales",
+    "quantity": "800 g"
+  },
+  {
+    "brands": "Hershey's",
+    "categories": "Confectioneries, Syrups, Artificial sugar substitutes",
+    "code": "7501024577057",
+    "product_name": "Jarabe sabor a chocolate",
+    "quantity": "453 ml"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000633357",
+    "product_name": "Marías",
+    "quantity": "432 g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000662616",
+    "product_name": "Habaneras integrales",
+    "quantity": "468 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Potato crisps",
+    "code": "7501011143241",
+    "product_name": "Receta Crujiente Sal - Corte grueso",
+    "quantity": "160g"
+  },
+  {
+    "brands": "Slim Pop",
+    "categories": "Sweet snacks, Salted popcorn",
+    "code": "7500326297861",
+    "product_name": "Slim Pop",
+    "quantity": "110 g"
+  },
+  {
+    "brands": "Fiber One",
+    "categories": "Brownies",
+    "code": "0016000423718",
+    "product_name": "Brownies Chocolate Fudge",
+    "quantity": "5.34 oz (151 g)"
+  },
+  {
+    "brands": "Picard chocolates",
+    "categories": "Confectioneries, Bars, Amaranth",
+    "code": "7501052900834",
+    "product_name": "Mini snacks",
+    "quantity": "330g"
+  },
+  {
+    "brands": "Crackets, Gamesa",
+    "categories": "Biscuits, es:Galletas saladas",
+    "code": "7500478005635",
+    "product_name": "Crackets",
+    "quantity": "95 g"
+  },
+  {
+    "brands": "Dasavena",
+    "categories": "Cereal bars",
+    "code": "7503016385169",
+    "product_name": "Barra de granola",
+    "quantity": "20 barras 700g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Appetizers, es:Alimentos de origen animal, es:Chicharrón",
+    "code": "7501011131002",
+    "product_name": "Chicharrón Sabritas",
+    "quantity": "115 g"
+  },
+  {
+    "brands": "Bimbo",
+    "categories": "Biscuits",
+    "code": "7501000138944",
+    "product_name": "sponchy",
+    "quantity": "120 g"
+  },
+  {
+    "brands": "Vualá",
+    "categories": "Chocolate candies, Candies, es:Pan dulce, es:Pastelillos",
+    "code": "7503023836142",
+    "product_name": "Vualá Sorpresa Chocolate",
+    "quantity": "60 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Crisps",
+    "code": "7501011154865",
+    "product_name": "Paketaxo Botanero",
+    "quantity": "270 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Potato crisps",
+    "code": "7501011115590",
+    "product_name": "Sabritas Crema y Especias",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Snacks, Cheeses, Dips, groceries",
+    "code": "7501011194472",
+    "product_name": "Dip Tostitos sabor queso suave",
+    "quantity": "255 g"
+  },
+  {
+    "brands": "Mars",
+    "categories": "Confectioneries",
+    "code": "0725181105015",
+    "product_name": "Skwinkles Clásicos Mars",
+    "quantity": "19.5 g"
+  },
+  {
+    "brands": "Barcel",
+    "categories": "Potato crisps, es:Chips saladas, fr:chips-de-pommes-de-terre-classiques",
+    "code": "7501000266203",
+    "product_name": "Chips sal",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "Picard",
+    "categories": "Confectioneries, Chocolates",
+    "code": "7501052900827",
+    "product_name": "Mini Snacks",
+    "quantity": "360"
+  },
+  {
+    "categories": "Biscuits",
+    "code": "7502249132069",
+    "product_name": "Super cookies"
+  },
+  {
+    "brands": "Marinela, Principe",
+    "categories": "Biscuit (cookie) snack w chocolate filling, Chocolate sandwich cookies",
+    "code": "7503034672104",
+    "product_name": "Príncipe",
+    "quantity": "5 Packs of 6 Cookies, 315 g"
+  },
+  {
+    "brands": "Gaveti",
+    "categories": "Biscuits",
+    "code": "7500462863203",
+    "product_name": "Galletas con arándano y jarabe de agave orgánico",
+    "quantity": ""
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Chocolate biscuits",
+    "code": "7501030419099",
+    "product_name": "mini Pingüinos",
+    "quantity": "25g"
+  },
+  {
+    "brands": "Cape Code",
+    "categories": "Crisps",
+    "code": "0020685000966",
+    "product_name": "",
+    "quantity": "30g"
+  },
+  {
+    "brands": "De la rosa, Dulces de la Rosa",
+    "categories": "Candies, Fruit pastes",
+    "code": "0725226066660",
+    "product_name": "Candy Hot and Salted Tamarind Pulp",
+    "quantity": "14 g"
+  },
+  {
+    "brands": "Matr",
+    "categories": "Confectioneries",
+    "code": "0725181249016",
+    "product_name": "Salsagheti hot candy watermelon",
+    "quantity": "24 g"
+  },
+  {
+    "brands": "Ferrero Rocher",
+    "categories": "Bonbons",
+    "code": "7861002900117",
+    "product_name": "Bombones cubiertos con chocolate con leche y avellanas rellenos",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "La costeña",
+    "categories": "Salty snacks, Chips and fries",
+    "code": "0643795543217",
+    "product_name": "totis",
+    "quantity": "10 gramos"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Potato crisps",
+    "code": "7500478017065",
+    "product_name": "Sabritas original",
+    "quantity": "64g"
+  },
+  {
+    "brands": "TAIFELD'S",
+    "categories": "Biscuits",
+    "code": "7502249131819",
+    "product_name": "Vegan"
+  },
+  {
+    "brands": "Trident",
+    "categories": "chewing-gum, Sugar-free chewing gum",
+    "code": "75045623",
+    "product_name": "Chicle Trident",
+    "quantity": "5.2g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Mantecados and polvorones",
+    "code": "7500810028032",
+    "product_name": "Polvoron"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Appetizers",
+    "code": "7500478001620",
+    "product_name": "Rancheritos",
+    "quantity": "40 g"
+  },
+  {
+    "categories": "Candies",
+    "code": "7503030374613",
+    "product_name": "Elotes"
+  },
+  {
+    "brands": "gaveti",
+    "categories": "Biscuits",
+    "code": "7503024543322",
+    "product_name": "galletas con blueberry, chia y jarabe de agave organico",
+    "quantity": "60g"
+  },
+  {
+    "brands": "Dasavena",
+    "categories": "Cereal bars",
+    "code": "7503016385220",
+    "product_name": "Barra Granola Almendra, Arándanos Y Quinoa"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits",
+    "code": "7503034672111",
+    "product_name": "",
+    "quantity": "252g"
+  },
+  {
+    "brands": "Sol",
+    "categories": "Snacks",
+    "code": "7503020501708",
+    "product_name": "Papas Sol tubi-Papa Rifaditas",
+    "quantity": "100g"
+  },
+  {
+    "brands": "Ricolino",
+    "categories": "Candies",
+    "code": "7500810004388",
+    "product_name": "Panditas ácidos",
+    "quantity": "60g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits",
+    "code": "7500810022801",
+    "product_name": "Canelitas",
+    "quantity": "120g"
+  },
+  {
+    "brands": "Valentina",
+    "categories": "Snacks, Spices, Sauces, es:Botana salada, es:Chile en polvo, es:Chile para fruta, es:Chiles para botana, es:Chilito, es:Salsa con limón, es:Salsa en polvo, es:Salsa picante",
+    "code": "0097339010015",
+    "product_name": "Fruit seasoning",
+    "quantity": "140 g"
+  },
+  {
+    "brands": "Oreo",
+    "categories": "Biscuits, es:galleta de chocolate con relleno de vainilla",
+    "code": "7622210575456",
+    "product_name": "oreo original",
+    "quantity": "147 gr"
+  },
+  {
+    "brands": "Groovies",
+    "categories": "Breakfast cereals, Chocolates with cereals",
+    "code": "7500464610423",
+    "product_name": "Cocoa Groove Chocolate"
+  },
+  {
+    "brands": "Barcel",
+    "categories": "Snacks",
+    "code": "7500810028353",
+    "product_name": "Takis",
+    "quantity": "70g"
+  },
+  {
+    "brands": "Donde",
+    "categories": "Biscuits",
+    "code": "0724865045210",
+    "product_name": "Soles",
+    "quantity": "180g"
+  },
+  {
+    "brands": "BelAra",
+    "categories": "Snacks",
+    "code": "7502234866832",
+    "product_name": "",
+    "quantity": "70g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7500478037216",
+    "product_name": "",
+    "quantity": "456g"
+  },
+  {
+    "brands": "Mead Johnson",
+    "categories": "Chocolates, Cocoa and chocolate powders",
+    "code": "7506205813412",
+    "product_name": "CalCTose Menos Azúcar"
+  },
+  {
+    "brands": "Ricolino",
+    "categories": "Chocolates",
+    "code": "0074323094169",
+    "product_name": "Chocoretas",
+    "quantity": "10g"
+  },
+  {
+    "brands": "Turin",
+    "categories": "Dark chocolates",
+    "code": "7502271915791",
+    "product_name": "Turín 70% cacao 16g"
+  },
+  {
+    "brands": "Sanisimo",
+    "categories": "Biscuits, Puffed rice, Puffed rice cakes, Quinoa, Puffed quinoa, es:Bocadillos, es:Galletas bajas en calorías, es:Galletas de arroz y quinoa, es:Galletas saludables, es:Galletas-de-arroz",
+    "code": "7500810024683",
+    "product_name": "Galletas de Arroz con Quinoa",
+    "quantity": "420g"
+  },
+  {
+    "brands": "Sanisimo",
+    "categories": "Biscuits, es:Arroz integral, es:Galletas de arroz integral, es:Galletas de maíz, es:Galletas integrales",
+    "code": "7500810024676",
+    "product_name": "Galletas De Arroz Y Grits De Maíz",
+    "quantity": "112g"
+  },
+  {
+    "categories": "Bars, es:Barra energética",
+    "code": "7503052023674"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits and cakes",
+    "code": "7501000153800",
+    "product_name": "Pingüinos",
+    "quantity": "80 g"
+  },
+  {
+    "brands": "Doritos, Sabritas",
+    "categories": "Corn chips",
+    "code": "7501011167735",
+    "product_name": "Nacho",
+    "quantity": "245 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Potato crisps with salt",
+    "code": "7501011133884",
+    "product_name": "Sabritas original",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "GALLETAS GULLON S.A.",
+    "categories": "Snacks, Galletas, Galletas María",
+    "code": "8410376010701",
+    "product_name": "Zero sin azúcares María",
+    "quantity": "400g"
+  },
+  {
+    "brands": "Quaker Oats, Quaker",
+    "categories": "Cereal bars",
+    "code": "7501761864816",
+    "product_name": "Stila Fit Chocolate",
+    "quantity": "138 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Flavoured potato crisps",
+    "code": "7501011133921",
+    "product_name": "Sabritas Adobadas",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "Ritz",
+    "categories": "Dry biscuits",
+    "code": "7622210833709",
+    "product_name": "RITZ",
+    "quantity": "89 g"
+  },
+  {
+    "brands": "Barcel",
+    "categories": "Crisps",
+    "code": "0757528001889",
+    "product_name": "Chips fuego 170 gr",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000625062",
+    "product_name": "Marias",
+    "quantity": "850 g"
+  },
+  {
+    "brands": "Granvita",
+    "categories": "Cereal bars",
+    "code": "0094331310334",
+    "product_name": "Barras de cereal sabor vainilla con almendras",
+    "quantity": "132 g"
+  },
+  {
+    "brands": "sabritas",
+    "categories": "Potato crisps, Frozen fried potatoes, es:Comida rápida",
+    "code": "7501011101463",
+    "product_name": "sabrías adobadas",
+    "quantity": "42g"
+  },
+  {
+    "brands": "Del Hogar",
+    "categories": "Corn chips, es:Totopos de maíz",
+    "code": "7501000364695",
+    "product_name": "Totopos",
+    "quantity": "280 g."
+  },
+  {
+    "brands": "Bimbo",
+    "categories": "Cereal bars",
+    "code": "7501000116447",
+    "product_name": "Bran Frut Fresa",
+    "quantity": "40g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Plant-based foods, Salty snacks",
+    "code": "7501011135512",
+    "product_name": "Tostitos Salsa Verde",
+    "quantity": "240 g"
+  },
+  {
+    "brands": "Fritos",
+    "categories": "Potato crisps",
+    "code": "7501011131125",
+    "product_name": "limon y sal",
+    "quantity": "180g"
+  },
+  {
+    "brands": "Nabisco",
+    "categories": "Biscuits",
+    "code": "7622300347963",
+    "product_name": "Marbú Doradas Galletas Marías",
+    "quantity": "174 g"
+  },
+  {
+    "brands": "Quaker",
+    "categories": "Biscuits and cakes, Cereal bars",
+    "code": "7501761863291",
+    "product_name": "Barras de avena Quaker Stila sabor fresa",
+    "quantity": "150g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Crisps",
+    "code": "7501011123380",
+    "product_name": "Doritos pizzerolas",
+    "quantity": "61g"
+  },
+  {
+    "brands": "Desavena",
+    "categories": "Cereal bars",
+    "code": "7503016385152",
+    "product_name": "Barras de granola Desavena",
+    "quantity": "35 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Appetizers",
+    "code": "7501011114517",
+    "product_name": "Rancheritos",
+    "quantity": "160g"
+  },
+  {
+    "brands": "Pronto",
+    "categories": "Cooking helpers, Cakes, Pancakes",
+    "code": "7501200483103",
+    "product_name": "Hot Cakes Tradicionales",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Bimbo",
+    "categories": "Breads, Wheats, Madeleines, Whole wheat flours, Vanilla muffins, es:Panaderia, es:Productos pan",
+    "code": "7501030475521",
+    "product_name": "Mantecadas sabor Vainilla",
+    "quantity": "187.5g"
+  },
+  {
+    "brands": "M&M's",
+    "categories": "Chocolate truffles",
+    "code": "7502271911472",
+    "product_name": "Peanut M&M’s",
+    "quantity": "44,3g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000662739",
+    "product_name": "Chocolatines",
+    "quantity": "294 g"
+  },
+  {
+    "brands": "Barcel",
+    "categories": "Legumes, Salty snacks, Peanuts",
+    "code": "7501030459958",
+    "product_name": "Hot Nuts Original",
+    "quantity": "100g"
+  },
+  {
+    "brands": "Palomitas",
+    "categories": "Salted popcorn",
+    "code": "7500326297809",
+    "product_name": "Slim Pop",
+    "quantity": "110g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Potato crisps, Frozen fried potatoes",
+    "code": "7501011101005",
+    "product_name": "Sabri Papas C / 90",
+    "quantity": ""
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000601981",
+    "product_name": "Habaneras Bran",
+    "quantity": "270 g"
+  },
+  {
+    "brands": "Milpa Real",
+    "categories": "Corn chips, es:Totopos de maíz",
+    "code": "7501030480785",
+    "product_name": "Totopos de maíz",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "LALA",
+    "categories": "Snacks, Cheeses, Processed cheeses, es:Botanas saladas, es:Derivados de la leche, es:Derivados de lácteos, es:Snaks",
+    "code": "7501020537383",
+    "product_name": "Queso procesado americano",
+    "quantity": "144 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Crisps",
+    "code": "7501011143999",
+    "product_name": "cheetos nacho",
+    "quantity": "52 g"
+  },
+  {
+    "brands": "Mondelez",
+    "categories": "Sweet snacks",
+    "code": "75045616",
+    "product_name": "Trident",
+    "quantity": "5.2 g"
+  },
+  {
+    "brands": "Lara",
+    "categories": "Dry biscuits, es:Galletas maría",
+    "code": "7501000135301",
+    "product_name": "Marias lara",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "",
+    "categories": "Biscuits",
+    "code": "7501030455363",
+    "product_name": "Sanissimo Galletas de Arroz y Quinoa",
+    "quantity": "360 g"
+  },
+  {
+    "brands": "Barcel",
+    "categories": "Salty snacks, es:Alimentos de origen animal, es:Chicharrón",
+    "code": "7501030421313",
+    "product_name": "Chicharrón",
+    "quantity": "90 g"
+  },
+  {
+    "brands": "Bimbo, GRUPO BIMBO S.A. B. DE C.V.",
+    "categories": "Pastries, Muffins, Madeleines, Wheat breads, Toasted bread rolls, es:Pastelitos",
+    "code": "7501000112388",
+    "product_name": "Panquecitos con chispas sabar a chocolate",
+    "quantity": "140 g"
+  },
+  {
+    "brands": "donas",
+    "categories": "Breads, Cakes, Milk bread rolls",
+    "code": "7501030474227",
+    "product_name": "Donas Azucaradas Bimbo",
+    "quantity": "157g"
+  },
+  {
+    "brands": "Terrafertil",
+    "categories": "Crisps",
+    "code": "7502252481765",
+    "product_name": "Mezcla de vegetales Nature's Heart veggi chips",
+    "quantity": "142 g"
+  },
+  {
+    "brands": "Taifeld's",
+    "categories": "Biscuits",
+    "code": "7502249132243",
+    "product_name": "Keto almendras",
+    "quantity": "180g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Salty snacks",
+    "code": "7501011116252",
+    "product_name": "Fritos",
+    "quantity": "53 g"
+  },
+  {
+    "brands": "Mead Johnson Nutrition",
+    "categories": "Chocolates",
+    "code": "7506205807633",
+    "product_name": "Cal.C.Tose",
+    "quantity": "160 g"
+  },
+  {
+    "brands": "clorets",
+    "categories": "Chewing gums",
+    "code": "75019907",
+    "product_name": "clorests"
+  },
+  {
+    "brands": "Gabeti",
+    "categories": "Biscuits or cookies variety packs",
+    "code": "7503024543186",
+    "product_name": "Galleta con Bluberry y chia",
+    "quantity": "60 g"
+  },
+  {
+    "brands": "Krusteaz",
+    "categories": "Cakes, Baking Mixes, Pastry helpers, Pancake mixes, es:Preparations-pour-desserts",
+    "code": "0041449003153",
+    "product_name": "Harina preparada completamente para hacer Hot Cakes",
+    "quantity": "4.53 kg"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000650552",
+    "product_name": "Flor de naranjo",
+    "quantity": "600 g"
+  },
+  {
+    "brands": "Autenta Foods",
+    "categories": "Salty snacks",
+    "code": "7500326286148",
+    "product_name": "Pretzels",
+    "quantity": "1 kg"
+  },
+  {
+    "brands": "Granvita",
+    "categories": "Breakfast cereals, Cereal bars",
+    "code": "0094331310358",
+    "product_name": "Granvita Barras de cereal sabor fresa con arandanos",
+    "quantity": "132 g"
+  },
+  {
+    "brands": "Lara",
+    "categories": "Biscuits",
+    "code": "7501030463726",
+    "product_name": "Deliciosas",
+    "quantity": ""
+  },
+  {
+    "brands": "Pringles",
+    "categories": "Stacked extruded potato crisps",
+    "code": "0038000184949",
+    "product_name": "Crema y Cebolla",
+    "quantity": "124 g"
+  },
+  {
+    "brands": "Tres estrellas",
+    "categories": "Cakes",
+    "code": "7501069213958",
+    "product_name": "Hot Cakes reducudos en azúcar y sodio",
+    "quantity": "800 gr."
+  },
+  {
+    "brands": "GREAT VALUE",
+    "categories": "Salty snacks, Biscuits",
+    "code": "7501791646482",
+    "product_name": "SALADAS",
+    "quantity": "180 G"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Flavoured potato crisps",
+    "code": "7501011167445",
+    "product_name": "Papas",
+    "quantity": "67g"
+  },
+  {
+    "brands": "Nopalia",
+    "categories": "Churros",
+    "code": "7503021741202",
+    "product_name": "Churritos de Nopal",
+    "quantity": "80"
+  },
+  {
+    "brands": "Nature Valley",
+    "categories": "Cereal bars",
+    "code": "7503015772014",
+    "product_name": "Protein"
+  },
+  {
+    "categories": "Confectioneries",
+    "code": "7501003302816"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000655151",
+    "product_name": "Cremax surtido, fresa, vainilla chocolate",
+    "quantity": "322 g"
+  },
+  {
+    "brands": "Act II",
+    "categories": "Salty snacks, Popcorn",
+    "code": "7501006559330",
+    "product_name": "Act II sabor Chile y Limón",
+    "quantity": "87 g"
+  },
+  {
+    "brands": "GRUPO BIMBO S.A. B. DE C.V.",
+    "categories": "Bars, Fruit biscuits, Marmalades, Fruit cakes",
+    "code": "7501000116430",
+    "product_name": "Barra con mermelada sabor piña Bran Frut",
+    "quantity": "58g"
+  },
+  {
+    "brands": "Grupo Bimbo, Tía Rosa",
+    "categories": "Biscuits, es:Panadería",
+    "code": "7501030456988",
+    "product_name": "Galleta con avena",
+    "quantity": "66 g."
+  },
+  {
+    "brands": "Trident",
+    "categories": "chewing-gum, Sugar-free chewing gum",
+    "code": "7506105606091",
+    "product_name": "Cool Bubble",
+    "quantity": "30.6 g"
+  },
+  {
+    "brands": "Tres estrellas",
+    "categories": "Cakes, Wheat flours",
+    "code": "7501069213965",
+    "product_name": "Hot cakes"
+  },
+  {
+    "brands": "Quaker",
+    "categories": "Oatmeal biscuits",
+    "code": "7500478006168",
+    "product_name": "Galletas De Avena Integral Sabor Vainilla"
+  },
+  {
+    "brands": "Kirkland",
+    "categories": "Nut bars",
+    "code": "0096619188130",
+    "product_name": "",
+    "quantity": ""
+  },
+  {
+    "brands": "De La Rosa",
+    "categories": "Confectioneries",
+    "code": "0724869002226",
+    "product_name": "Malvaviscos Bianchi Mini",
+    "quantity": "15g"
+  },
+  {
+    "brands": "Ferrero",
+    "categories": "Candies, Cocoa and hazelnuts spreads",
+    "code": "8000500385593",
+    "product_name": "nutella"
+  },
+  {
+    "brands": "Pringles",
+    "categories": "Stacked extruded potato crisps",
+    "code": "0038000846755",
+    "product_name": "Pringles Queso",
+    "quantity": "40 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Corn chips",
+    "code": "7501011130869",
+    "product_name": "Botana Tostitos sabor salsa verde",
+    "quantity": "175 g"
+  },
+  {
+    "brands": "sabritas",
+    "categories": "Crisps, es:Papas flamin hot",
+    "code": "7501011135581",
+    "product_name": "Botana Tostitos sabor flamin hot",
+    "quantity": "174 g"
+  },
+  {
+    "brands": "Tostitos",
+    "categories": "Corn chips",
+    "code": "7500478018628",
+    "product_name": "Nachos Sabritas Tostitos salsa verde",
+    "quantity": "57 g"
+  },
+  {
+    "brands": "gamesa",
+    "categories": "Biscuits",
+    "code": "7501000612147",
+    "product_name": "Cremax",
+    "quantity": "213g"
+  },
+  {
+    "brands": "Vero, cupido",
+    "categories": "Lollipops",
+    "code": "7503030374736",
+    "product_name": "Cupido",
+    "quantity": "14 g"
+  },
+  {
+    "brands": "Slim Pop",
+    "categories": "Popcorn",
+    "code": "7500463970900",
+    "product_name": "Sweet And Salty",
+    "quantity": "25g"
+  },
+  {
+    "brands": "Barcel",
+    "categories": "Snacks",
+    "code": "7501000367481",
+    "product_name": "Hot Nuts Original",
+    "quantity": "50 g"
+  },
+  {
+    "brands": "ACTO",
+    "categories": "Popcorn",
+    "code": "7501006559019",
+    "product_name": "Palomitas de maiz"
+  },
+  {
+    "brands": "Trident",
+    "categories": "Sugar-free chewing gum",
+    "code": "7622210571328",
+    "product_name": "Trident XtraCare yerbabuena"
+  },
+  {
+    "brands": "Tic Tac",
+    "categories": "Candies",
+    "code": "80941385",
+    "product_name": "tic tac",
+    "quantity": "14,5g"
+  },
+  {
+    "brands": "Nature's Bakery",
+    "categories": "Biscuits",
+    "code": "0047495605068",
+    "product_name": "Barras de Higo con Frambuesas",
+    "quantity": ""
+  },
+  {
+    "brands": "Saníssimo",
+    "categories": "Biscuits, Crisps, es:Galletas saladas, es:Galletas saludables, es:Totopos",
+    "code": "7503028965557",
+    "product_name": "Sanisimo",
+    "quantity": "260g"
+  },
+  {
+    "brands": "Sensible Portions",
+    "categories": "Snacks",
+    "code": "0829515304935",
+    "product_name": "Garden Veggie Straws"
+  },
+  {
+    "categories": "Candies",
+    "code": "0759686943421",
+    "product_name": "PicaFresa"
+  },
+  {
+    "brands": "FUD",
+    "categories": "Snacks, Mozzarella, Manchego, es:Botanas saladas, es:Derivados de la leche, es:Derivados de lácteos, es:Snaks",
+    "code": "75061371",
+    "product_name": "Dedos de queso",
+    "quantity": "26g"
+  },
+  {
+    "brands": "Pringles",
+    "categories": "Stacked extruded potato crisps",
+    "code": "0038000845246",
+    "product_name": "Original",
+    "quantity": "2.3 oz"
+  },
+  {
+    "brands": "",
+    "categories": "Biscuits",
+    "code": "7501791600965",
+    "ecoscore_tags": [
+      "c"
+    ],
+    "product_name": "",
+    "quantity": ""
+  },
+  {
+    "brands": "Lancelot",
+    "categories": "Milk chocolates",
+    "code": "7502261269996",
+    "product_name": "Chocolate Con Leche"
+  },
+  {
+    "brands": "Gabi",
+    "categories": "Biscuits with nuts",
+    "code": "7500810016282",
+    "product_name": "Besos de nuez",
+    "quantity": "60 g"
+  },
+  {
+    "brands": "Ricolino",
+    "categories": "Biscuits",
+    "code": "7622210575289",
+    "product_name": "GALL OREO CHOC/VLLA TUBO 189 Gr",
+    "quantity": "189g"
+  },
+  {
+    "brands": "Great Value",
+    "categories": "Corn chips",
+    "code": "7506495070953",
+    "product_name": ""
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Chocolate biscuits",
+    "code": "7501000395958",
+    "product_name": "Triki Trakes",
+    "quantity": "34 g"
+  },
+  {
+    "brands": "Amaranth",
+    "categories": "Snacks",
+    "code": "7503031225433",
+    "product_name": "Churros De Amaranto Chipotle"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits",
+    "code": "7503034672067",
+    "product_name": "Príncipe avellana tentación",
+    "quantity": "315 g 5 paquetes"
+  },
+  {
+    "brands": "Sabritas, doritos nacho",
+    "categories": "Corn chips",
+    "code": "7500478044467",
+    "product_name": "doritos",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "Ancient Superseed",
+    "categories": "Crisps",
+    "code": "7503028419104",
+    "product_name": "Amaranth Chips"
+  },
+  {
+    "brands": "Picard Chocolates",
+    "categories": "Dark chocolates",
+    "code": "7503033831298",
+    "product_name": "Chocolate oscuro zero con niña de cacao",
+    "quantity": "100 gr"
+  },
+  {
+    "brands": "Dondé",
+    "categories": "Biscuits",
+    "code": "0724865042455",
+    "product_name": "Galletas de soda",
+    "quantity": "160g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Appetizers, Confectioneries, Cakes, Chocolates, Chocolate desserts, Chocolate milks, Cocoa powders, es:Aperitivos-azucarados, es:Pastelito",
+    "code": "7500810039045",
+    "product_name": "Hershey's pastelito",
+    "quantity": "40g"
+  },
+  {
+    "brands": "Oh Joy!",
+    "categories": "Snacks",
+    "code": "7501214102687",
+    "product_name": "Barra Frutos Rojos"
+  },
+  {
+    "brands": "de la Rosa",
+    "categories": "Bars",
+    "code": "0724869007870",
+    "product_name": "NUGS"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Snacks",
+    "code": "7500478044405",
+    "product_name": "Paketaxo dark",
+    "quantity": "208g"
+  },
+  {
+    "brands": "Sabritas Limón",
+    "categories": "Crisps",
+    "code": "7500478043958",
+    "product_name": "Sabritas limón 42g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Flavoured potato crisps",
+    "code": "7500478043965",
+    "product_name": "Cremas Y Especias"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Confectioneries, Biscuits",
+    "code": "7501000625253",
+    "product_name": "",
+    "quantity": "185g"
+  },
+  {
+    "brands": "Lindt",
+    "categories": "Dark chocolate bars",
+    "code": "0009542444631",
+    "product_name": "Chocolate Amargo 90%"
+  },
+  {
+    "brands": "Vero",
+    "categories": "Confectioneries",
+    "code": "0759686241183",
+    "product_name": "Sandi Brochas prendidas",
+    "quantity": "16g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7500478045143",
+    "product_name": "Maravillas Vainilla 125g"
+  },
+  {
+    "brands": "Ricolino",
+    "categories": "Desserts, Candies",
+    "code": "7503030374088",
+    "product_name": "Gomitas Dulci Gomas",
+    "quantity": "63g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Chocolate candies",
+    "code": "7500810043424",
+    "product_name": "",
+    "quantity": "80g"
+  },
+  {
+    "brands": "Lara",
+    "categories": "Biscuits",
+    "code": "7503032991801",
+    "quantity": "185g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Snacks",
+    "code": "7500478044146",
+    "product_name": "PAKETAXO MEZCLADITO"
+  },
+  {
+    "brands": "Paketaxo",
+    "categories": "Snacks",
+    "code": "7500478045303",
+    "product_name": "Paketaxo Mezcladito 41 g - 5303",
+    "quantity": "41g"
+  },
+  {
+    "brands": "Mentos",
+    "categories": "Confectioneries",
+    "code": "7503033553077",
+    "product_name": "",
+    "quantity": "29,04g"
+  },
+  {
+    "brands": "Trident",
+    "categories": "Sugarfree candies",
+    "code": "7622210530509",
+    "product_name": "",
+    "quantity": "17,46g"
+  },
+  {
+    "brands": "Real de Potosi",
+    "categories": "Confectioneries",
+    "code": "0737621016805",
+    "product_name": "Cajeta de leche de cabra",
+    "quantity": "475g"
+  },
+  {
+    "brands": "Suandy",
+    "categories": "Biscuits",
+    "code": "7500810017548",
+    "product_name": "Diamantes con mantequilla",
+    "quantity": ""
+  },
+  {
+    "brands": "Bimbo",
+    "categories": "Cereal bars",
+    "code": "7501030424345",
+    "product_name": "Multigrano",
+    "quantity": "34 g"
+  },
+  {
+    "brands": "Quaker",
+    "categories": "Biscuits and cakes, Cereal bars with almonds, Cereal bars with hazelnuts, coated-chocolate-bar-without-biscuit",
+    "code": "7501761865530",
+    "product_name": "Quaker Stila Fit Chocolate",
+    "quantity": "138g, 6 barras"
+  },
+  {
+    "brands": "Mazapan De La Rosa",
+    "categories": "Marzipan",
+    "code": "0724869100090",
+    "product_name": "Marzipan(unidades)"
+  },
+  {
+    "brands": "Bimbo, Grupo Bimbo S.A. de C.V., Marinela",
+    "categories": "Biscuits",
+    "code": "7501030491644",
+    "product_name": "Canelitas",
+    "quantity": "90 g"
+  },
+  {
+    "brands": "Tostitos",
+    "categories": "Appetizers, Corn",
+    "code": "7501011173521",
+    "product_name": "Tostitos Nachos",
+    "quantity": "400 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Crisps",
+    "code": "7501011110335",
+    "product_name": "Fritos Limón y sal",
+    "quantity": "62 g"
+  },
+  {
+    "brands": "Act II",
+    "categories": "Salted popcorn",
+    "code": "7501006559026",
+    "product_name": "Act II sabor Mantequilla Extra",
+    "quantity": "80 g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Chocolate candies, Candies, es:Pastelito",
+    "code": "75002275",
+    "product_name": "Choco Roles",
+    "quantity": "100g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Biscuits",
+    "code": "7501030490920",
+    "product_name": "Polvorones",
+    "quantity": "250 g"
+  },
+  {
+    "brands": "Quaker",
+    "categories": "Cereal bars, Nut bars, es:Barras rellenas",
+    "code": "7501761847970",
+    "product_name": "Barras de avena Quaker Stila sabor moras",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "Gamesa",
+    "categories": "Biscuits",
+    "code": "7501000655380",
+    "product_name": "Marias",
+    "quantity": "510 g"
+  },
+  {
+    "brands": "Quaker",
+    "categories": "Oatmeal biscuits",
+    "code": "7500478004720",
+    "product_name": "Galletas de avena manzana y canela",
+    "quantity": "240 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Salty snacks, Meals with pork, es:Alimentos de origen animal, es:Chicharrón",
+    "code": "7501011151079",
+    "product_name": "Chicharrón",
+    "quantity": "30 g"
+  },
+  {
+    "brands": "Susalia",
+    "categories": "Biscuits, Crackers (Appetizers), Corn-crackers, es:crackers-de-maiz-y-nopal",
+    "code": "7503013543111",
+    "product_name": "Galletas de maíz y nopal crackers",
+    "quantity": "144g"
+  },
+  {
+    "brands": "Marinela",
+    "categories": "Cakes",
+    "code": "7501030478591",
+    "product_name": "Gansito 3 Pack",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "Nestlé",
+    "categories": "Candy chocolate bars",
+    "code": "7501058617736",
+    "product_name": "Carlos V cero",
+    "quantity": "17gr"
+  },
+  {
+    "brands": "Saníssimo",
+    "categories": "Biscuits, Corn, Cornmeal, Crispbreads, es:Tostadas de maiz, es:Tostadas-horneadas",
+    "code": "0658480001248",
+    "product_name": "Salmas Clásicas",
+    "quantity": "3u - 18 g"
+  },
+  {
+    "brands": "Nabisco",
+    "categories": "Biscuits",
+    "code": "7622210833938",
+    "product_name": "Ritz",
+    "quantity": "356 g"
+  },
+  {
+    "brands": "Bimbo, Marinela",
+    "categories": "Biscuits",
+    "code": "7501030467472",
+    "product_name": "Comida",
+    "quantity": "335 g"
+  },
+  {
+    "brands": "Sabritas",
+    "categories": "Crisps",
+    "code": "7501011167728",
+    "product_name": "Torcidos",
+    "quantity": "255 g"
+  },
+  {
+    "brands": "popcorn",
+    "categories": "Salted popcorn",
+    "code": "7500326297830",
+    "product_name": "SLIM POP",
+    "quantity": "110g"
   }
 ]
