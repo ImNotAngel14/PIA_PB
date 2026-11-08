@@ -1,3 +1,11 @@
-.venv/
+# Archivos generados por el proyecto
+/datos/
+/graficas/
+
+# Archivos temporales de Python
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
