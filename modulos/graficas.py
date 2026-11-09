@@ -3,7 +3,7 @@ Módulo: graficas.py
 Descripción: Genera gráficas a partir de los datos analizados.
 
 Autor: Kenia Janett Arcivar Vazquez
-Matrícula: 0000000
+Matrícula: 1753251
 Rol: Programador
 Materia: Programación Básica
 Fecha: 07/11/2026
