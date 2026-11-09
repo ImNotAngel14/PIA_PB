@@ -35,8 +35,6 @@ El programa procesa los datos obtenidos mediante técnicas de limpieza y validac
 
    pip install -r requirements.txt
 
-5. Crea la carpeta `datos` en el directorio raíz del proyecto si todavía no existe. Esta carpeta almacenará los archivos generados durante la ejecución.
-
 ## Ejecución
 
 Para ejecutar el programa completo, utiliza:
@@ -49,6 +47,7 @@ El archivo principal coordina la ejecución de los cuatro módulos en el siguien
 2. **limpiador_datos.py:** limpia y valida los registros mediante expresiones regulares, normaliza los campos y elimina productos duplicados.
 3. **analizador.py:** ordena los productos mediante el algoritmo Quicksort y calcula estadísticas descriptivas sobre sus cantidades.
 4. **exportador.py:** genera un archivo Excel con el inventario de productos y los resultados del análisis estadístico.
+5. **graficas.py:** genera gráficas a partir de los datos analizados.
 
 ## Estructura del proyecto
 
@@ -139,7 +138,7 @@ El archivo Excel contiene dos hojas:
 ## Autor
 
 Desarrollado por: 
-Kenia Janett Arcivar Vazquez
-Yesenia Stephania Chavez Montiel
+Kenia Janett Arcivar Vazquez 1753251
+Yesenia Stephania Chavez Montiel 1941628
 Angel Emmanuel Barbosa Silos 1905405
 Proyecto Integrador de Aprendizaje (PIA).
