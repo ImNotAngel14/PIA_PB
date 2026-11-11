@@ -41,6 +41,10 @@ Para ejecutar el programa completo, utiliza:
 
 python main.py
 
+Para desactivar el entorno virtual utiliza:
+
+deactivate
+
 El archivo principal coordina la ejecución de los cuatro módulos en el siguiente orden:
 
 1. **api_cliente.py:** consulta la API de OpenFoodFacts, obtiene información de productos de snacks en México y guarda la respuesta en formato JSON.
