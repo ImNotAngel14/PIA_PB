@@ -1,4 +1,4 @@
-from modulos import api_cliente, limpiador_datos, analizador, graficas
+from modulos import api_cliente, exportador, limpiador_datos, analizador, graficas
 
 def main():
     print("=== PROYECTO INTEGRADOR ===\n")
@@ -12,7 +12,10 @@ def main():
     print("\n3. Analizando datos...")
     stats = analizador.main()
 
-    print("\n4. Generando gráficas...")
+    print("\n4. Exportando a Excel...")
+    exportador.main()
+
+    print("\n5. Generando gráficas...")
     graficas.main(stats)
 
     print("\nProceso finalizado.")
