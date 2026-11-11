@@ -4,6 +4,10 @@ Aplicación desarrollada en Python que consulta la API pública de [OpenFoodFact
 
 El programa procesa los datos obtenidos mediante técnicas de limpieza y validación, elimina registros duplicados, realiza análisis estadísticos y exporta los resultados a un archivo de Excel.
 
+## Repositorio
+
+- https://github.com/ImNotAngel14/PIA_PB
+
 ## Requisitos
 
 - Python 3.14.7 o superior.
