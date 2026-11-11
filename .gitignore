@@ -9,3 +9,6 @@ __pycache__/
 # Entornos virtuales
 .venv/
 venv/
+
+# Documentacion de la tarea
+/docs/
